@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Bob. I’m currently working on [oasis engine](https://github.com/ant-galaxy) in ant group.
+My name is Bob. I’m currently working on [Galacean](https://github.com/galacean) in ant group.
