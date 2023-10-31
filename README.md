@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is 鹅叔. I’m currently working on [Galacean](https://github.com/galacean) in [Ant Group](https://www.antgroup.com/en).
+My name is 鹅叔 (Bob). I’m currently working on [Galacean](https://github.com/galacean) in [Ant Group](https://www.antgroup.com/en).
